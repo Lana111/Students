@@ -1,0 +1,26 @@
+<students>
+    <student>
+        <firstName>Vasia</firstName>
+        <lastName>Pupkin</lastName>
+        <course>3</course>
+        <age>20</age>
+    </student>
+    <student>
+        <firstName>Petia</firstName>
+        <lastName>Petrov</lastName>
+        <course>1</course>
+        <age>18</age>
+    </student>
+    <student>
+        <firstName>Ivan</firstName>
+        <lastName>Ivanov</lastName>
+        <course>5</course>
+        <age>23</age>
+    </student>
+    <student>
+        <firstName>Nik</firstName>
+        <lastName>Abc</lastName>
+        <course>5</course>
+        <age>21</age>
+    </student>
+</students>
